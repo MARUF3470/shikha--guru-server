@@ -1,0 +1,35 @@
+[
+    {
+        "id":"01",
+        "name":"Web-Desinging",
+        "photoURL":"https://i.postimg.cc/66VLqP5C/240-F-85732813-H42-V97-Iaz-S9x-QNf-MPYrbk1fg-Qcg9l8rs-removebg-preview.png"
+    },
+    {
+        "id":"02",
+        "name":"Web-Devolopment",
+        "photoURL":"https://i.postimg.cc/Y9X5czDP/web-development-blue-gradient-concept-icon-vector-43049027-removebg-preview.png"
+    },
+    {
+        "id":"03",
+        "name":"Artificial Intelligence",
+        "photoURL":"https://i.postimg.cc/J479rvC2/ai-removebg-preview-1.png"
+    },
+    {
+        "id":"04",
+        "name":"App-Development",
+        "photoURL":"https://i.postimg.cc/hjRQqV6K/app.png"
+    },
+    {
+        "id":"05",
+        "name":"Cyber Security",
+        "photoURL":"https://i.postimg.cc/m2vZPTZr/cyber-removebg-preview.png"
+    },
+    {
+        "id":"06",
+        "name":"Graphics Designer",
+        "photoURL":"https://i.postimg.cc/C5v3bsV0/gd-removebg-preview.png"
+    }
+   
+
+    
+]
