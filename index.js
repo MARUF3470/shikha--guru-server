@@ -18,6 +18,11 @@ app.get('/subjects/:id', (req, res) => {
     const categorySubject = subjects.filter(subject => subject.id == id)
     res.send(categorySubject)
 })
+app.get('/subject/:id', (req, res) => {
+    const id = req.params.id
+    const subject = subjects.find(subject => subject.subjectID == id)
+    res.send(subject)
+})
 app.listen(port, () => {
     console.log()
 })
